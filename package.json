@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "husky": "8.0.0",
-    "nanoid": "4.0.2"
+    "nanoid": "5.0.1"
   },
   "description": ""
 }
